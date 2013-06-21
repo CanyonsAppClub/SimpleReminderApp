@@ -18,3 +18,9 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+#OS X likes to leave treats...
+.DS_Store
+
+#Common text editor savefile
+*.swp
